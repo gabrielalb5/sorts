@@ -1,4 +1,4 @@
-# 📋 Comparativo de desempenho de algoritmos de ordenação em C
+# 📋 Comparativo de desempenho de algoritmos de ordenação - Sorting algorithms comparison (C)
 
 Essa pesquisa faz parte da disciplina de Estrutura de Dados e objetiva demonstrar o desempenho de algoritmos de ordenação, semelhante ao trabalho desenvolvido por Souza, Ricarte e de Almeida Lima (2017).
 
